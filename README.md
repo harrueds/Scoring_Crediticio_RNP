@@ -115,7 +115,7 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-###🔹 Ejecución
+### 🔹Ejecución
 
 - Abrir Jupyter Notebook:
 
