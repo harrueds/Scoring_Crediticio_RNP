@@ -123,7 +123,7 @@ venv\Scripts\activate
 jupyter notebook
 ```
 
-- Navegar hasta el archivo henzo_arrue_modular7.ipynb y abrirlo.
+- Navegar hasta el archivo scoring_credito_RNP.ipynb y abrirlo.
 
 - Ejecutar las celdas en orden para reproducir el flujo completo del modelo.
 
