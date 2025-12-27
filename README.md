@@ -132,7 +132,7 @@ jupyter notebook
 ### 🔹 Autor
 
 - Henzo Alejandro Arrué Muñoz
-- Docente de Matemática y Estadística | Desarrollador con enfoque en Machine Learning y Linux
+- Desarrollador con enfoque en Machine Learning y Linux y sólida formación matemática y estadística
 
 ### 🔹 Contacto
 
